@@ -1,0 +1,82 @@
+
+body{
+    
+    background-image: url("https://i.pinimg.com/736x/e9/9d/56/e99d568582b45168d1295b442a62c1de.jpg")
+}
+.label {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+.sectionCards{
+    padding-top: 30px;
+    width:1300px;
+    margin: 1%;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 1000px;
+    
+    
+}
+.foot{
+    display: flex;
+    padding-bottom: 5%;
+    justify-content: space-between;
+}
+
+.buttonFootleft {
+    border: none;
+    background-color: rgb(87, 83, 83) ;
+    color: aliceblue;
+    margin-left: 30%;
+    height: 30px;
+    width: 100px;
+    border-radius: 2px;
+    
+}
+
+.buttonFootright {
+    border: none;
+    background-color: rgb(87, 83, 83) ;
+    color: aliceblue;
+    margin-right: 30%;
+    height: 30px;
+    width: 100px;
+    border-radius: 2px;
+}
+
+
+.divCard {
+    
+    width: 250px;
+    height: 300px;
+    padding: 5px;
+}
+.navlink {
+    margin-right: 5%;
+    color: aliceblue;
+    
+}
+.filters {
+    margin-left: 5%;
+   
+    
+}
+.filter {
+    border: none;
+    background:rgb(87, 83, 83);
+    color: aliceblue;
+    font-family: "calibri";
+}
+
+
+
+.headerDiv {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(87, 83, 83);
+    padding-bottom: 5px;
+    padding-top: 20px;
+}

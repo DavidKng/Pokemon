@@ -1,0 +1,29 @@
+
+body{
+    background-image: url("https://i.pinimg.com/originals/7d/a6/7d/7da67d6959b17aa6fe27b2817f255824.jpg") ;
+    
+    
+    background-position-y: -140px;
+    background-size:cover;
+}
+
+.button {
+    margin-top: 25mm;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(226, 226, 4);
+    font-style: oblique;
+    height: 82mm;
+    width: 82mm;
+    margin-right: 25%;
+    margin-top: 13%;
+    border-radius: 100%;
+    background-image: url("https://icon-library.com/images/pokeball-icon/pokeball-icon-4.jpg");
+    background-position: center;
+}
+
+.navLinkLanding {
+    color: rgb(226, 226, 4);
+    text-decoration: none;
+    font-family: "calibri";
+}

@@ -1,0 +1,52 @@
+
+
+.form {
+    width: 400px;
+    background: rgb(87, 83, 83);
+    padding: 30px;
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    font-family: "calibri";
+    color:aliceblue;
+}
+
+.form h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.form input {
+    width:95%;
+    margin-right: 20px;
+    background: aliceblue;
+    padding: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(66, 63, 63);
+    font-family: "calibri";
+    font-size: 18px;
+    color:rgb(87, 83, 83);
+}
+
+.form select {
+    width:100%;
+    background: aliceblue;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(66, 63, 63);
+    font-family: "calibri";
+    font-size: 18px;
+    color:rgb(87, 83, 83);
+}
+.buttonForm {
+    height: 30px;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    background: aliceblue;
+    color: rgb(87, 83, 83);
+    
+}

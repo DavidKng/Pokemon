@@ -1,0 +1,47 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  margin: 10px;
+  border: 2px solid rgb(116, 3, 3);
+  border-radius: 10px;
+  min-height: 290px;
+  font-family: "calibri";
+  color: rgb(87, 83, 83) ;
+}
+.cardButton {
+    border: none;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(87, 83, 83);
+    margin-bottom: 0;
+    font-family: "calibri";
+    color:aliceblue;
+    font-size: 17px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.ulCard{
+    list-style: none;
+    padding-right: 30px;
+}
+.img {
+    position: center;
+    width: 100px;
+    height: 100px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.navLinkCard {
+    text-align: center;
+    color:aliceblue;
+    text-decoration: none;
+}
